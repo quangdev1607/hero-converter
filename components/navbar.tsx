@@ -18,7 +18,7 @@ export default function Navbar({}): any {
             <div className="items-center  gap-2 flex">
                 <ModeToggle />
                 <Button variant={"link"} asChild>
-                    <Link target="_blank" href="https://github.com/quangdev1607">
+                    <Link target="_blank" href="https://github.com/quangdev1607/hero-converter">
                         <span className="text-xl">
                             <FaGithub />
                         </span>
